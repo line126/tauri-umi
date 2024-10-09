@@ -1,4 +1,8 @@
-# tauri、umi 构建桌面应用
+# 构建桌面应用 Tauri Umi 的模板
+
+- 初始目录
+- tauri v1
+- 桌面端
 
 [tauri](https://tauri.app/zh/)
 [umijs](https://umijs.org/)
